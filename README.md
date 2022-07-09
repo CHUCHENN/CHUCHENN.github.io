@@ -6,32 +6,29 @@
 
 ### 坠落星空
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+点击此处收听：https://music.163.com/#/song?id=1351520305
 
-```markdown
-Syntax highlighted code block
+作为一首歌颂美丽宇宙的歌曲，却有着和歌颂爱情一样美好的色彩。温柔朦胧的声音很好地歌颂了星空的浪漫。歌词中表达出对宇宙的爱说不清是对浩瀚的宇宙，还是浩瀚宇宙中的爱人。这首歌在抖音，哔哩哔哩等各大视频网站成为影视剧或者动漫的二次创作热门用曲。在2021播出的热门剧《司藤》中引入，通过剧情巧妙的烘托，达到了很好的表达效果。
 
-# Header 1
-## Header 2
-### Header 3
+### brainstorm
 
-- Bulleted
-- List
+点击收听：https://music.163.com/#/song?id=1821466257
+头脑风暴，看起来是一个需要特别消耗脑力的事情，然而，这首歌却并不是为了让你在头脑风暴时收听，增加您的办事效率。虽然名为头脑风暴，实际上是为了治愈各种各样的烦恼而写，你在烦恼什么，你的脑海里一定一场腥风血雨吧，无论是情感，工作，个人，和我一起收听这首歌，让音乐触碰，治愈柔软的内心吧。
 
-1. Numbered
-2. List
+### Rubia
 
-**Bold** and _Italic_ and `Code` text
+点击收听：https://music.163.com/#/song?id=1815684465
 
-[Link](url) and ![Image](src)
-```
+歌手周深为这首歌倾情献声，高昂悠扬的歌声为这首歌增色不少，也深深地触动了观众的心弦。作为一首游戏中的印象曲，这首歌讲述的是一名少女历经千年和千辛万苦拯救苍生，在生命最后为了保护自己所爱的人而牺牲时，她所保护的人也保护着她，最后，两个女孩被彼此救赎，一起并肩战斗的故事。这首歌的意境非常美，制作水平也非常高，能感受到创作者的丰富的情感。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 但愿人长久
+点击收听：https://music.163.com/#/song?id=299714
 
-### Jekyll Themes
+作为以宋词填词的歌曲，钢琴很好的融入到了这首歌的氛围中，为中西结合的优秀范例。仅仅优美二字不能表达出这首歌的万一。无论多久，笔者还是为它优美的韵律而感动，或许这就是跨越千年，中国人之间的共同的情感共鸣吧——思乡。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CHUCHENN/CHUCHENN.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+###遥远的歌
 
-### Support or Contact
+点击收听：https://music.163.com/#/song?id=1351520305
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+这是一首青春气息洋溢的歌曲，有人说，当人们现在过得不如意的时候总爱怀念过去，但其实，怀念过去是一件美好的事。这首歌便是让我们这些也许内心深处还没有长大的大人，去寻找青春时那么单纯，那么勇敢地追寻梦想的自己。
+
